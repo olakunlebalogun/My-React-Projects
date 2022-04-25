@@ -1,6 +1,6 @@
 # TODO APP
 
-login, login authentication, User profile, date range, customized navbar layout
+login, login authentication, User profile, date range, customized navbar layout, search text, sortBy : [date, completed, createdAt, ], startDate and endDate, sidebar
 
 ## Redux
 

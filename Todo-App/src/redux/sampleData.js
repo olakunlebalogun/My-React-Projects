@@ -1,23 +1,25 @@
-import uuid from "uuid";
+import id from "./../utils/IdGenerator";
 const data = [
 	{
-		id: 1,
+		id: id(),
 		task: "Buy a house",
 	},
 	{
-		id: 2,
+		id: id(),
 		task: "Go see Elon Musk",
 	},
 	{
-		id: 3,
+		id: id(),
 		task: "Say hi to Peterson",
 	},
 	{
-		id: 4,
+		id: id(),
 		task: "Eat Marshed Potatoes",
+		description:
+			"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam ipsam dignissimos nam blanditiis, neque animi id quidem voluptas nemo ab totam consequuntur cumque, accusamus in minus aspernatur laboriosam accusantium adipisci est iste dicta non fugiat. Labore, iste? Incidunt consectetur tempore modi maiores. Aperiam, eveniet! Tempore consequuntur,",
 	},
 	{
-		id: 5,
+		id: id(),
 		task: "Read about Abraham Lincoln",
 	},
 ];
