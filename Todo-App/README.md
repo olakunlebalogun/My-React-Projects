@@ -1,5 +1,7 @@
 # TODO APP
 
+login, login authentication, User profile, date range, customized navbar layout
+
 ## Redux
 
 Use redux to manage state and Data all through this application
@@ -16,7 +18,7 @@ Use redux to manage state and Data all through this application
 
 ## Use NodeJS as the backend application
 
-## Contributors:
+## Contributors
 
 ## Resource
 
