@@ -9,16 +9,16 @@ const AddTask = () => {
 					<Form>
 						<FloatingLabel
 							controlId="floatingInput"
-							label="Email address"
+							label="Title"
 							className="mb-3"
 						>
-							<Form.Control type="email" placeholder="name@example.com" />
+							<Form.Control type="text" placeholder="Write a book" />
 						</FloatingLabel>
 
-						<FloatingLabel controlId="floatingTextarea2" label="Comments">
+						<FloatingLabel controlId="floatingTextarea2" label="Description">
 							<Form.Control
 								as="textarea"
-								placeholder="Leave a comment here"
+								placeholder="Explain in details"
 								style={{ height: "100px" }}
 							/>
 						</FloatingLabel>

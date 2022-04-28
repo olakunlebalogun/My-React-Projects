@@ -16,7 +16,7 @@ const getData = () => {
 };
 
 const myData = getData();
-console.log(myData);
+// console.log(myData);
 const Manager = () => {
 	const [tasks, setTasks] = useState(data);
 	const [task, setTask] = useState("");

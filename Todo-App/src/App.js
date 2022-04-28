@@ -10,7 +10,7 @@ function App() {
 		<div>
 			<NavBar />
 			{/* <Manager /> */}
-			<AddTask />
+			{/* <AddTask /> */}
 			<ListTask />
 		</div>
 	);
