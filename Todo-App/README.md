@@ -10,6 +10,8 @@ Use redux to manage state and Data all through this application
 
 ## Form and Validation
 
+For the form validation, yup and react-hook-form will be used, because it is easier to deal with and incase of error one would easily see the solution online.
+
 ## React BootStrap
 
 ## dependencies

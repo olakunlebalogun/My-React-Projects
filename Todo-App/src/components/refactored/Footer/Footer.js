@@ -17,8 +17,8 @@ const Footer = () => {
 				<div className="foot d-flex justify-content-around">
 					<div className="first">
 						<p className="name">
-							@2022 -- OlakunleBalo -- Being and Building Software <br />{" "}
-							Applications since 2019
+							@2022 -- OlakunleBalo -- Building Software <br /> Applications
+							since 1819
 						</p>
 						<p>SiteMap | Terms | Privacy | Cookies | Advertisement</p>
 					</div>
